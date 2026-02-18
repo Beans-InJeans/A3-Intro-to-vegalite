@@ -1,6 +1,7 @@
 var yourVlSpec = {
   $schema: "https://vega.github.io/schema/vega-lite/v5.json",
   description: "A simple bar chart with embedded data.",
+  title: "A Simple Bar Chart",
   data: {
     values: [
       { a: "A", b: 28 },
